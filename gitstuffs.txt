@@ -1,0 +1,7 @@
+.navbar-ep .navbar-nav li .dropdown-menu li a
+
+.navbar-ep .navbar-nav .ep-user-dropdown .dropdown-menu 
+
+
+border-bottom: 3px solid #f0d02e;
+    padding-bottom: 3px;
